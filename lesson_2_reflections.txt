@@ -11,3 +11,8 @@ The repository and the working directory exist but staging area is just a
 concept used to explain how we add files to a repository so that
 git keeps track of it. It offers us the freedom to choose the 
 files that are to be tracked (technically the changes to be commited).
+
+3)How can you use the staging area to make sure you have one commit per logical change?
+
+git diff --staged gives the difference between the latest commit and the staging area . 
+By using this I will make sure that there is only one logical change per commit.
