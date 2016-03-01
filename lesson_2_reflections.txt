@@ -4,3 +4,10 @@ When we initialise a repository git starts to keep track of the files
 in it when we make commits.
 It is needed because , only after doing this we will be able to
 keep track of the older versions of the files in the repository.
+
+2)How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The repository and the working directory exist but staging area is just a 
+concept used to explain how we add files to a repository so that
+git keeps track of it. It offers us the freedom to choose the 
+files that are to be tracked (technically the changes to be commited).
