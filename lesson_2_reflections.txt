@@ -1,0 +1,6 @@
+1)What happens when you initialize a repository? Why do you need to do it?
+
+When we initialise a repository git starts to keep track of the files
+in it when we make commits.
+It is needed because , only after doing this we will be able to
+keep track of the older versions of the files in the repository.
