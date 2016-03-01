@@ -1,0 +1,38 @@
+1)How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+The diff command gives the line which was deleted from the
+old version and the line which was introduced in the
+new version with a - and a + symbol respectively and 
+this helps identifying the bug introduced in the code.
+
+2)How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+When a bug is introduced in the code I can actually refer 
+to its older version to find the bug in a less time
+instead of spending a lot of time in searching through 
+each line of the code.
+And also if I want some of the older features back
+then I can just to do a copy and paste.This helps 
+in reducing the time delay.
+
+3)What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Pros:We can do more logical commits.If we are in the middle of a line 
+of code we do not want to save it because it may not even compile.
+Cons:We may forget to commit for a long time.And now if we commit 
+it will contain a lot of changes and it will be difficult to 
+understand it logically.
+
+4)Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Git is related to coding so it is appropriate for it to save multiple files in a single commit.
+Google docs deals with text files so it is better to handle them seperately.   
+
+5)How can you use the commands git log and git diff to view the history of files?
+The git log command actually lets us to view all the commits made so far.
+The git diff command gives the differences between two commits.
+
+6)How might using version control make you more confident to make changes that could break something?
+By introducing new things which is a lot different from the old version does not take away the old versions if we
+are using git . We can at any time revert back to an old version by using the git checkout command.
+
+7)Now that you have your workspace set up, what do you want to try using Git for?
+Most probably for my cs projects and also for my android projects. 
