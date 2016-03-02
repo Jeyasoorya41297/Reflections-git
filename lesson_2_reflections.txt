@@ -16,3 +16,11 @@ files that are to be tracked (technically the changes to be commited).
 
 git diff --staged gives the difference between the latest commit and the staging area . 
 By using this I will make sure that there is only one logical change per commit.
+
+4)What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+-Experimental versions
+-New language versions
+-Making the program attractive
+In all the above cases we are working on a seperate branch. So we have a working version
+with us which we can show to others.
