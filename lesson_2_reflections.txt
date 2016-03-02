@@ -35,3 +35,8 @@ history this way we can actually understand the branch structure.
 By merging two branches together we are able to make two versions into a single
 version. Using the diagram it is actually easy to visualise the
 merge.
+
+7)What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+pros : Less time and less work
+cons : May introduce changes that doesn't make sense
