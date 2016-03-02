@@ -24,3 +24,14 @@ By using this I will make sure that there is only one logical change per commit.
 -Making the program attractive
 In all the above cases we are working on a seperate branch. So we have a working version
 with us which we can show to others.
+
+5)How do the diagrams help you visualize the branch structure?
+
+Diagrams help us to find the parents of each commit. By viewing the 
+history this way we can actually understand the branch structure.
+
+6)What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+By merging two branches together we are able to make two versions into a single
+version. Using the diagram it is actually easy to visualise the
+merge.
