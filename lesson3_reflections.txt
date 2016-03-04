@@ -7,3 +7,12 @@ When I want other programmers to contribute to my code I will use a remote repos
 Sometimes we do not want to include the changes in GitHub to our
 local repository . In such situations its better to have a
 manual pull rather than git automatically doing the job .
+
+3)Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks : Copying a repository from some other account to our own
+account in github wihtout involving our local machines.
+Clones : Copying from github to our local machines.
+Branches : These are used by us to build some experimental
+feature. We push a branch into github . Other than that
+it has nothing to do with it. 
