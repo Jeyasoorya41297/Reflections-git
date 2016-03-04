@@ -15,4 +15,9 @@ account in github wihtout involving our local machines.
 Clones : Copying from github to our local machines.
 Branches : These are used by us to build some experimental
 feature. We push a branch into github . Other than that
-it has nothing to do with it. 
+it has nothing to do with it.
+
+4)What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It is beneficial in the sense that if you have made changes on github
+this local label helps us to identify it. 
