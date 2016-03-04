@@ -20,4 +20,9 @@ it has nothing to do with it.
 4)What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It is beneficial in the sense that if you have made changes on github
-this local label helps us to identify it. 
+this local label helps us to identify it.
+
+5)How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would collaborate by sending emails. It would be harder for both to work at the same time.
+I can't think of any advantages as of now.
