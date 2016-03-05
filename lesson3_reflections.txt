@@ -26,3 +26,12 @@ this local label helps us to identify it.
 
 I would collaborate by sending emails. It would be harder for both to work at the same time.
 I can't think of any advantages as of now.
+
+6)When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When I want other colloborators to give feedback on my work I will create a 
+seperate branch.
+If I update the master branch directly the work is easier whereas
+in the situation when I create a seperate branch I will have
+to merge them manually because there is guarantee that it will
+have merge conflicts .
